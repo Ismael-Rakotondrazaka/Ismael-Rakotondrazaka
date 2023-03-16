@@ -1,7 +1,8 @@
 # Fitia Ismael Rakotondrazaka
 
 # 👋 Hello, I'm Ismael
-I'm a **professional web developer** with a passion for building user-friendly applications.
+I'm a **professional web developer** with a passion for building user-friendly applications.\
+Check out my **[portfolio](https://portfolio-ismael.onrender.com)**.
 
 # 🥇 Skills
 I am a highly dynamic and organized individual who can work effectively both independently and as a part of a team.\
