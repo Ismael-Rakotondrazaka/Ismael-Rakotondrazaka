@@ -15,64 +15,64 @@ I have worked on various web projects and continue to learn and develop my skill
 ## Technical skills
 
 ### Programming languages
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.php.net">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block;" />
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.typescriptlang.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
 ### Frameworks an libraries
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://nodejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://vuejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://expressjs.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://reactjs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://laravel.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://nuxtjs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://tailwindcss.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://socket.io">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
 ### DMS
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.mongodb.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://sqlite.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
 ### Tools & extras
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://git-scm.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://github.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://wwww.linux.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
+<a href="https://www.npmjs.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
