@@ -86,18 +86,33 @@ I have worked on various web projects and continue to learn and develop my skill
 # 📞 How to reach me
 Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
-<a href="https://www.linkedin.com/in/ismael-rakotondrazaka/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="90" height="90" />
-</a>
-<a href="https://github.com/Ismael-Rakotondrazaka">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" height="90"/>
-</a>
-<a href="https://www.facebook.com/ismaelrakotondrazaka">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="90" height="90"/>
-</a>
-<a href="https://www.hackerrank.com/ismaelrakotondr1">
-    <img src="assets/images/logo-hackerrank.svg" width="90" height="90"/>
-</a>
+
+<ul style="display:flex;flex-direction:column;gap:1rem;">
+    <li style="display:block;">
+        <a href="https://www.linkedin.com/in/ismael-rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+            <p>https://www.linkedin.com/in/ismael-rakotondrazaka</p>
+        </a>
+    </li>
+    <li style="display:block;">
+        <a href="https://github.com/Ismael-Rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+            <p>https://github.com/Ismael-Rakotondrazaka</p>
+        </a>
+    </li>
+    <li style="display:block;">
+        <a href="https://www.facebook.com/ismaelrakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" />
+            <p>https://www.facebook.com/ismaelrakotondrazaka</p>
+        </a>
+    </li>
+    <li style="display:block;">
+        <a href="https://www.hackerrank.com/ismaelrakotondr1" style="display:flex;align-items:center;gap:1rem;">
+            <img src="assets/images/logo-hackerrank.svg" width="40" height="40" />
+            <p>https://www.hackerrank.com/ismaelrakotondr1</p>
+        </a>
+    </li>
+</ul>
 
 # ➕ More
 Apart from web development, I am also interested in **competitive programming** and **artificial intelligence**.\
