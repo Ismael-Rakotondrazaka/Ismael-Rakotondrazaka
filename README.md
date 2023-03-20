@@ -76,8 +76,12 @@ I have worked on various web projects and continue to learn and develop my skill
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
+# Achievements
+## Hackerrank badges
+![Hackerrank badges of ismaelrakotondr1](https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1)
+
 # 📊 Statistics
-<img alt="github streak of Ismael-Rakotondrazaka" src="http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff">
+![github streak of Ismael-Rakotondrazaka](http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff)
 
 # 📞 How to reach me
 Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
