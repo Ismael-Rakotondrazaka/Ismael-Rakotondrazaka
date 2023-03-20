@@ -90,26 +90,26 @@ Please feel free to reach out to me if you have any questions or would like to c
 <ul style="display:flex;flex-direction:column;gap:1rem;">
     <li style="display:block;">
         <a href="https://www.linkedin.com/in/ismael-rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-            <p>https://www.linkedin.com/in/ismael-rakotondrazaka</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+            <span>https://www.linkedin.com/in/ismael-rakotondrazaka</span>
         </a>
     </li>
     <li style="display:block;">
         <a href="https://github.com/Ismael-Rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-            <p>https://github.com/Ismael-Rakotondrazaka</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
+            <span>https://github.com/Ismael-Rakotondrazaka</span>
         </a>
     </li>
     <li style="display:block;">
         <a href="https://www.facebook.com/ismaelrakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" />
-            <p>https://www.facebook.com/ismaelrakotondrazaka</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
+            <span>https://www.facebook.com/ismaelrakotondrazaka</span>
         </a>
     </li>
     <li style="display:block;">
         <a href="https://www.hackerrank.com/ismaelrakotondr1" style="display:flex;align-items:center;gap:1rem;">
-            <img src="assets/images/logo-hackerrank.svg" width="40" height="40" />
-            <p>https://www.hackerrank.com/ismaelrakotondr1</p>
+            <img src="assets/images/logo-hackerrank.svg" width="30" height="30" />
+            <span>https://www.hackerrank.com/ismaelrakotondr1</span>
         </a>
     </li>
 </ul>
