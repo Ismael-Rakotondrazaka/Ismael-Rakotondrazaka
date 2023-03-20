@@ -1,7 +1,9 @@
 # Fitia Ismael Rakotondrazaka
 
 # 👋 Hello, I'm Ismael
-I'm a **professional web developer** with a passion for building user-friendly applications.\
+I'm a **professional web developer** with a passion for building user-friendly applications.
+
+# Portfolio
 Check out my **[portfolio](https://portfolio-ismael.onrender.com)**.
 
 # 🥇 Skills
@@ -75,10 +77,10 @@ I have worked on various web projects and continue to learn and develop my skill
 </a>
 
 # 📊 Statistics
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff">
+<img alt="github streak of Ismael-Rakotondrazaka" src="http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff">
 
 # 📞 How to reach me
-Please feel free to reach out to me if you have any questions or would like to collaborate on a project.\
+Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
 <a href="https://www.linkedin.com/in/ismael-rakotondrazaka/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="90" height="90" />
