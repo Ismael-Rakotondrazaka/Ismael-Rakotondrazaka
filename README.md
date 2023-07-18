@@ -41,7 +41,7 @@ I have worked on various web projects and continue to learn and develop my skill
 <a href="https://laravel.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://nuxtjs.org">
+<a href="https://nuxtjs.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://tailwindcss.com">
