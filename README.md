@@ -69,7 +69,7 @@ I have worked on various web projects and continue to learn and develop my skill
 <a href="https://github.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://wwww.linux.org">
+<a href="https://www.linux.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://www.npmjs.com">
