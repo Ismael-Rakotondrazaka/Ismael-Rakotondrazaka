@@ -2,7 +2,9 @@
 
 <div align="center">
 <img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+</div>
 
+<div align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
 </div>
 
