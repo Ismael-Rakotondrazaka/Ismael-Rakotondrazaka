@@ -102,6 +102,10 @@ I have worked on various web projects and continue to learn and develop my skill
 
 <img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
 
+## Github trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5" alt="Github Trophy of Ismael-Rakotondrazaka" />
+
 # 📊 Statistics
 
 ![github streak of Ismael-Rakotondrazaka](http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff)
