@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
 </div>
 
 I'm a **professional web developer** with a passion for building user-friendly applications.
