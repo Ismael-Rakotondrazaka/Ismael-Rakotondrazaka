@@ -100,11 +100,11 @@ I have worked on various web projects and continue to learn and develop my skill
 
 ![Hackerrank badges of ismaelrakotondr1](https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1)
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
-
 ## Github trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5" alt="Github Trophy of Ismael-Rakotondrazaka" />
+
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
 
 # 📊 Statistics
 
