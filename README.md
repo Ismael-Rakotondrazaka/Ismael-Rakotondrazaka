@@ -1,8 +1,12 @@
 # Fitia Ismael Rakotondrazaka
 
-<img align="center" src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+<div align="center">
+<img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+</div>
 
-<img align="center" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
+<div align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
+</div>
 
 I'm a **professional web developer** with a passion for building user-friendly applications.
 
