@@ -1,6 +1,8 @@
 # Fitia Ismael Rakotondrazaka
 
-# 👋 Hello, I'm Ismael
+<img align="center" src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+
+<img align="center" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
 
 I'm a **professional web developer** with a passion for building user-friendly applications.
 
