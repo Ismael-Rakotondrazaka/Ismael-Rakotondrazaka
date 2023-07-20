@@ -1,20 +1,33 @@
 # Fitia Ismael Rakotondrazaka
 
-# 👋 Hello, I'm Ismael
+<div align="center">
+<img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+</div>
+
+<div align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
+</div>
+
 I'm a **professional web developer** with a passion for building user-friendly applications.
 
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+
 # Portfolio
+
 Check out my **[portfolio](https://portfolio-ismael.onrender.com)**.
 
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+
 # 🥇 Skills
+
 I am a highly dynamic and organized individual who can work effectively both independently and as a part of a team.\
 I am always willing to adapt to new situations and challenges.\
 I have worked on various web projects and continue to learn and develop my skills.
 
-
 ## Technical skills
 
 ### Programming languages
+
 <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
 </a>
@@ -26,6 +39,7 @@ I have worked on various web projects and continue to learn and develop my skill
 </a>
 
 ### Frameworks an libraries
+
 <a href="https://nodejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
@@ -41,7 +55,7 @@ I have worked on various web projects and continue to learn and develop my skill
 <a href="https://laravel.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://nuxtjs.org">
+<a href="https://nuxtjs.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://tailwindcss.com">
@@ -52,6 +66,7 @@ I have worked on various web projects and continue to learn and develop my skill
 </a>
 
 ### DMS
+
 <a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
@@ -63,29 +78,43 @@ I have worked on various web projects and continue to learn and develop my skill
 </a>
 
 ### Tools & extras
+
 <a href="https://git-scm.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://github.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
-<a href="https://wwww.linux.org">
+<a href="https://www.linux.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 <a href="https://www.npmjs.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
 </a>
 
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+
 # Achievements
+
 ## Hackerrank badges
+
 ![Hackerrank badges of ismaelrakotondr1](https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1)
 
+## Github trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5" alt="Github Trophy of Ismael-Rakotondrazaka" />
+
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+
 # 📊 Statistics
+
 ![github streak of Ismael-Rakotondrazaka](http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff)
 
-# 📞 How to reach me
-Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
 
+# 📞 How to reach me
+
+Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
 <ul style="display:flex;flex-direction:column;gap:1rem;">
     <li style="display:block;">
@@ -114,7 +143,10 @@ Please feel free to reach out to me if you have any questions or would like to c
     </li>
 </ul>
 
+<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+
 # ➕ More
+
 Apart from web development, I am also interested in **competitive programming** and **artificial intelligence**.\
 I am constantly learning and growing as a developer and look forward to contributing to exciting projects.
 
