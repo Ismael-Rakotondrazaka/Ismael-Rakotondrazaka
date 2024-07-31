@@ -1,153 +1,111 @@
 # Fitia Ismael Rakotondrazaka
 
 <div align="center">
-<img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+    <img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
 </div>
 
 <div align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
 </div>
 
-I'm a **professional web developer** with a passion for building user-friendly applications.
+# 👨 About me
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+- **About Me**: Young developer from Madagascar with strong backend and frontend skills, focused on creating robust web services.
+- **Openness**: Open to job or internship opportunities where I can contribute and grow.
+- **Current Interests**: Passionate about web development, Competitive Programming, and Artificial Intelligence.
+- **Learning Journey**: Currently exploring how to combine these interests with web development.
 
-# Portfolio
+<br />
 
-Check out my **[portfolio](https://portfolio-ismael.onrender.com)**.
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quote=Since%20codes%20are%20arts%2C%20%0AI'm%20also%20an%20artist...%0AIt's%20like%20painting%20and%20literature%2C%20we%20create%20something%20beautiful%20from%20almost%20nothing%2C%20from%20a%20blank%20canvas%2C%20blank%20pages%2C%20empty%20files.
+    &author=RAKOTONDRAZAKA Fitia Ismael" />
+</div>
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+<br />
+
+# 🌐 Portfolio
+
+Check out my **[portfolio 🔗](https://portfolio-ismael.onrender.com)**.
 
 # 🥇 Skills
 
-I am a highly dynamic and organized individual who can work effectively both independently and as a part of a team.\
-I am always willing to adapt to new situations and challenges.\
-I have worked on various web projects and continue to learn and develop my skills.
+## Soft skills
+
+- **Dynamic and Organized**: I take action quickly when given a task and make sure to complete it in an orderly way.
+- **Teamwork and Collaboration**: I work well with others and also handle tasks on my own when needed.
+- **Adaptability**: I adjust easily to new situations and learn new things quickly.
 
 ## Technical skills
 
-### Programming languages
+### 💬 Programming languages
 
-<a href="https://www.javascript.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://www.php.net">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="display:inline-block;" />
-</a>
-<a href="https://www.typescriptlang.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
+<p>
+    <img src="https://skillicons.dev/icons?i=js,php,ts" alt="JavaScript, PHP, TypeScript" />
+</p>
 
-### Frameworks an libraries
+### 📦 Frameworks and libraries
 
-<a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://vuejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://expressjs.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://reactjs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://laravel.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://nuxtjs.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://tailwindcss.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://socket.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
+<p>
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxt,laravel,express,react,tailwind,si,prisma" alt="Node.js, Vue.js, Nuxt.js, Laravel, Express, React, Tailwind CSS, Socket.io, Prisma" />
+</p>
 
-### DMS
+### 🗃️ Database Management System
 
-<a href="https://www.mysql.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://www.mongodb.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://sqlite.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="MySQL, PostgreSQL, MongoDB, SQLite" />
+</p>
 
-### Tools & extras
+### 🛠️ Tools & extras
 
-<a href="https://git-scm.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://github.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://www.linux.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
-<a href="https://www.npmjs.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="display:inline-block;"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,npm" alt="Git, GitHub, Docker, Linux, Postman, NPM" />
+</p>
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+# 🌠 Achievements
 
-# Achievements
+<details>
+  <summary><b>🏅 Hackerrank badges</b></summary>
 
-## Hackerrank badges
+  <br />
+  <img src="https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1" alt="Hackerrank badges of ismaelrakotondr1" />
+</details>
 
-![Hackerrank badges of ismaelrakotondr1](https://hackerrank-badge.onrender.com/api/v1/badges/ismaelrakotondr1)
-
-## Github trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5" alt="Github Trophy of Ismael-Rakotondrazaka" />
-
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+<details>
+  <summary><b>🏆 Github trophies</b></summary>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5&column=5" alt="Hackerrank badges of ismaelrakotondr1" />
+</details>
 
 # 📊 Statistics
 
-![github streak of Ismael-Rakotondrazaka](http://github-readme-streak-stats.herokuapp.com?user=Ismael-Rakotondrazaka&fire=41e2ba&ring=41e2ba&currStreakLabel=fff&background=0886ef&stroke=fff&currStreakNum=fff&sideNums=fff&dates=fff&sideLabels=fff)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismael-Rakotondrazaka&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Rakotondrazaka&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismael-Rakotondrazaka&hide_border=true&fire=007acc&ring=007acc&currStreakLabel=007acc&currStreakNum=007acc&sideNums=007acc&sideLabels=007acc" />
+</details>
 
 # 📞 How to reach me
 
 Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
 
-<ul style="display:flex;flex-direction:column;gap:1rem;">
-    <li style="display:block;">
-        <a href="https://www.linkedin.com/in/ismael-rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
-            <span>https://www.linkedin.com/in/ismael-rakotondrazaka</span>
-        </a>
-    </li>
-    <li style="display:block;">
-        <a href="https://github.com/Ismael-Rakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
-            <span>https://github.com/Ismael-Rakotondrazaka</span>
-        </a>
-    </li>
-    <li style="display:block;">
-        <a href="https://www.facebook.com/ismaelrakotondrazaka" style="display:flex;align-items:center;gap:1rem;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
-            <span>https://www.facebook.com/ismaelrakotondrazaka</span>
-        </a>
-    </li>
-    <li style="display:block;">
-        <a href="https://www.hackerrank.com/ismaelrakotondr1" style="display:flex;align-items:center;gap:1rem;">
-            <img src="assets/images/logo-hackerrank.svg" width="30" height="30" />
-            <span>https://www.hackerrank.com/ismaelrakotondr1</span>
-        </a>
-    </li>
-</ul>
+[![Phone Number](https://img.shields.io/badge/Phone%20Number-%2B261%2034%2092%20989%2078-brightgreen)](tel:+1234567890)
 
-<img src="assets/images/starry-night-slice-1.jpg" alt="Section separator" />
+[![Email](https://img.shields.io/badge/Email-ismaelrakotondrazaka@gmail.com-blue)](mailto:ismaelrakotondrazaka@gmail.com)
 
-# ➕ More
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue)](https://www.yourportfolio.com)
 
-Apart from web development, I am also interested in **competitive programming** and **artificial intelligence**.\
-I am constantly learning and growing as a developer and look forward to contributing to exciting projects.
+[![GitHub](https://img.shields.io/badge/GitHub-@Ismael--Rakotondrazaka-black)](https://github.com/Ismael-Rakotondrazaka)
 
-## 🙏 Thanks for checking out my profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ismael--rakotondrazaka-blue)](https://www.linkedin.com/in/ismael-rakotondrazaka)
+
+# 🙏 Thanks for checking out my profile.
