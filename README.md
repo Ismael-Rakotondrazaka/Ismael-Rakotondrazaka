@@ -1,32 +1,18 @@
 # Fitia Ismael Rakotondrazaka
 
 <div align="center">
-    <img src="assets/images/cat-typing-joyfully.gif" alt="Cat typing joyfully"/>
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&size=26&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ismael;Full-Stack+Web+Developer+from+Madagascar;I+build+clean%2C+scalable+web+experiences" alt="Typing intro" />
 </div>
 
-<div align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&lines=%F0%9F%91%8B+Hello%2C+I+am+Ismael;Nice+to+meet+you!" alt="I am Ismael, Nice te meet you!" />
-</div>
+## 👨 About me
 
-# 👨 About me
+- Full-stack web developer from Madagascar, focused on robust and user-friendly web applications.
+- Open to internship and job opportunities where I can learn, contribute, and grow.
+- Interested in web development, competitive programming, and AI.
 
-- **About Me**: Young developer from Madagascar with strong backend and frontend skills, focused on creating robust web services.
-- **Openness**: Open to job or internship opportunities where I can contribute and grow.
-- **Current Interests**: Passionate about web development, Competitive Programming, and Artificial Intelligence.
-- **Learning Journey**: Currently exploring how to combine these interests with web development.
+## 🌐 Portfolio
 
-<br />
-
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quote=Since%20codes%20are%20arts%2C%20%0AI'm%20also%20an%20artist...%0AIt's%20like%20painting%20and%20literature%2C%20we%20create%20something%20beautiful%20from%20almost%20nothing%2C%20from%20a%20blank%20canvas%2C%20blank%20pages%2C%20empty%20files.
-    &author=RAKOTONDRAZAKA Fitia Ismael" />
-</div>
-
-<br />
-
-# 🌐 Portfolio
-
-Check out my **[portfolio 🔗](https://portfolio-ismael.onrender.com)**.
+🔗 **Check out my portfolio** [ismaelrakoto.com](https://ismaelrakoto.com)
 
 # 🥇 Skills
 
@@ -74,7 +60,7 @@ Check out my **[portfolio 🔗](https://portfolio-ismael.onrender.com)**.
 <details>
   <summary><b>🏆 Github trophies</b></summary>
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5&column=5" alt="Hackerrank badges of ismaelrakotondr1" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=Ismael-Rakotondrazaka&margin-w=5&margin-h=5&column=5" alt="Hackerrank badges of ismaelrakotondr1" />
 </details>
 
 # 📊 Statistics
@@ -94,18 +80,13 @@ Check out my **[portfolio 🔗](https://portfolio-ismael.onrender.com)**.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismael-Rakotondrazaka&hide_border=true&fire=007acc&ring=007acc&currStreakLabel=007acc&currStreakNum=007acc&sideNums=007acc&sideLabels=007acc" />
 </details>
 
-# 📞 How to reach me
+## 📞 Contact
 
-Please feel free to reach out to me if you have any questions or would like to collaborate on a project.
-
-[![Phone Number](https://img.shields.io/badge/Phone%20Number-%2B261%2034%2092%20989%2078-brightgreen)](tel:+1234567890)
-
-[![Email](https://img.shields.io/badge/Email-ismaelrakotondrazaka@gmail.com-blue)](mailto:ismaelrakotondrazaka@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue)](https://www.yourportfolio.com)
-
+[![Email](https://img.shields.io/badge/Email-contact%40ismaelrakoto.com-blue)](mailto:contact@ismaelrakoto.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ismaelrakoto.com-0A66C2)](https://ismaelrakoto.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Ismael--Rakotondrazaka-black)](https://github.com/Ismael-Rakotondrazaka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--rakotondrazaka-0A66C2)](https://www.linkedin.com/in/ismael-rakotondrazaka)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ismael--rakotondrazaka-blue)](https://www.linkedin.com/in/ismael-rakotondrazaka)
+---
 
-# 🙏 Thanks for checking out my profile.
+Thanks for visiting my profile ✨
