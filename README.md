@@ -1,6 +1,10 @@
 # Fitia Ismael Rakotondrazaka
 
 <div align="center">
+    <img src="assets/images/profile.png" alt="Cat typing joyfully"/>
+</div>
+
+<div align="center">
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&size=26&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Ismael;Full-Stack+Web+Developer+from+Madagascar;I+build+clean%2C+scalable+web+experiences" alt="Typing intro" />
 </div>
 
