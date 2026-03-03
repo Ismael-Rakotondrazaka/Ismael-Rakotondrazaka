@@ -1,7 +1,7 @@
 # Fitia Ismael Rakotondrazaka
 
 <div align="center">
-    <img src="assets/images/profile.png" alt="Cat typing joyfully"/>
+    <img src="assets/images/profile-circle-150x150.png" alt="Cat typing joyfully"/>
 </div>
 
 <div align="center">
