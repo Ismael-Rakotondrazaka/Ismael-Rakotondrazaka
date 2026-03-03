@@ -37,7 +37,7 @@
 ### 📦 Frameworks and libraries
 
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxt,laravel,express,react,tailwind,si,prisma" alt="Node.js, Vue.js, Nuxt.js, Laravel, Express, React, Tailwind CSS, Socket.io, Prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxt,supabase,laravel,express,react,tailwind,si,prisma" alt="Node.js, Vue.js, Nuxt.js, Laravel, Express, React, Tailwind CSS, Socket.io, Prisma" />
 </p>
 
 ### 🗃️ Database Management System
